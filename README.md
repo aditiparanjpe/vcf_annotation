@@ -8,8 +8,6 @@ Script to annotate vcf file
 
 Usage : annotate_vcf.pl -input <input_file_name> -output <output_file_name>
 
-
-
 Annotated output file (default file name : annotated.tsv) contains following information:
 
 1.Variant type (e.g. insertion, deletion, etc.). 

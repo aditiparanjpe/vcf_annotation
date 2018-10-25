@@ -1,4 +1,5 @@
 # vcf_annotation
+
 By Aditi Paranjpe
 Script to annotate vcf file
 Usage : annotate_vcf.pl -input <input_file_name> -output <output_file_name>
